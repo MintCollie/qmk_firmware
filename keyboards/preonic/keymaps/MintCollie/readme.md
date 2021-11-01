@@ -2,7 +2,7 @@
 
 ## Layouts
 
-### Mint
+### MINT
 a edit of the default Qwerty keymap with some basic changes that are more prefreable for me.
 ```
 ,-----------------------------------------------------------------------------------.
@@ -18,7 +18,7 @@ a edit of the default Qwerty keymap with some basic changes that are more prefre
 `-----------------------------------------------------------------------------------'
 ```
 
-### Colemak
+### GAMING
 ```
 ,-----------------------------------------------------------------------------------.
 |   `  |   1  |   2  |   3  |   4  |   5  |   6  |   7  |   8  |   9  |   0  | Del  |
